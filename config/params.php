@@ -1,7 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: postp
- * Date: 09.10.2019
- * Time: 21:05
- */
+
+return [
+    'admin_email' => 'admin@mail.com',
+    'shop_name' => 'Store shop.loc',
+    'pagination' => 3,
+    'smtp_login' => '',
+    'smtp_password' => ''
+];
